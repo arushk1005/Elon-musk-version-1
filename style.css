@@ -1,0 +1,116 @@
+
+body{
+text-align: center
+ }       
+#welcome{
+ height:600px;
+    background:linear-gradient(#9FA8DA 0%,#E65100 100%);
+    
+    
+    
+}   
+#profile{
+ height:200px;
+border-radius;50%
+border:2px solid grey;
+padding :2px;
+box-shadow:10px  10px 15px
+       
+    
+    
+}   
+
+.parallax-inner{
+ padding:100px;
+}
+ 
+.menu{
+ list-style:none;
+    font-size:15px;
+    top:0;
+    right:30;
+    float:right;
+    z-index:9;
+    cursor:pointer;
+    
+ }   
+.links{
+display:inline;
+margin-right:5px;
+    
+  }  
+    
+    
+p{
+margin-left: 60px;
+    margin-right:60px;
+    text-align: justify;
+    line-height: 1.6;
+    font-size: 18px;
+    font-family: 'Abel', sans-serif;
+
+}
+
+.line{
+ margin: 8px auto;
+    background-color: black;
+    width:100px;
+    height:3px;
+    
+    
+    
+}
+
+iframe{border:7px ridge;
+    padding:2px;
+    margin-bottom: 10px;
+    
+}
+
+ scroll-behavior:smoth;
+
+    
+     
+#name{
+font-family: 'Oswald', sans-serif;
+
+      font-size:30px;
+    color:red
+       
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+   
+    
+    
+    
+    
+
+
+   
+    
+    
+
+    
+
+ 
+    
+    
+    
+     
+    
+    
+
+    
